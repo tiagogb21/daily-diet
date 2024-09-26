@@ -1,0 +1,1 @@
+npm run knex migrate:make create_user_table
